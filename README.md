@@ -17,7 +17,6 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - WebSocket (Java backend)
 - Jakarta EE (JSP, Servlets)
 - Hibernate ORM
-- Docker
 - AWS
 - Telegram Bot
 - Swagger
